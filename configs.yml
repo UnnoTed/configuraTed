@@ -1,0 +1,42 @@
+---
+list:
+  very_low:
+    name: 'MasterComfig: Very Low'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-very-low-preset.vpk
+  experimental:
+    name: 'MasterComfig: Experimental'
+    type: autoexec
+    url: https://gist.githubusercontent.com/mastercoms/a7eeb371ac2c066feb3e0d397b8086c7/raw/bfc5c2d3e97626b4b94b06d6795662a9e4686804/
+    file: autoexec.cfg
+  low:
+    name: 'MasterComfig: Low'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-low-preset.vpk
+  medium_low:
+    name: 'MasterComfig: Medium Low'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-medium-low-preset.vpk
+  medium:
+    name: 'MasterComfig: Medium'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-medium-preset.vpk
+  medium_high:
+    name: 'MasterComfig: Medium High'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-medium-high-preset.vpk
+  high:
+    name: 'MasterComfig: High'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-high-preset.vpk
+  ultra:
+    name: 'MasterComfig: Ultra'
+    type: vpk
+    url: https://github.com/mastercoms/mastercomfig/releases/download/v6.10.0/
+    file: mastercomfig-ultra-preset.vpk
